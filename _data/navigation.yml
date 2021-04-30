@@ -3,12 +3,12 @@
   side: right
 
 - title: About Us
-  url: "/getting-started/"
+  url: "/about-us/"
   side: right
 
 
 - title: "Services"
-  url: "/headers/"
+  url: "/services/"
   side: right
   dropdown:
   - title: "Header with Full-Width-Image"
@@ -26,12 +26,19 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
+
 - title: Blogs
-  url: "/blog/"
+  url: "/blogs/"
   side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+
+- title: "Contact Us"
+  url: "/contact-us/"
+  side: right
+
 
 #- title: "Blogs"
 #  url: "/design/"
@@ -70,7 +77,3 @@
 #- title: "Search"
 #  url: "/search/"
 #  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
