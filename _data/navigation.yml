@@ -1,6 +1,6 @@
 - title: Home
   url: "/"
-  side: right
+  side: center
 
 - title: About Us
   url: "/getting-started/"
@@ -9,7 +9,7 @@
 
 - title: "Services"
   url: "/headers/"
-  side: left
+  side: center
   dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
@@ -28,7 +28,7 @@
 
 - title: Blogs
   url: "/blog/"
-  side: right
+  side: center
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
@@ -73,4 +73,4 @@
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: center
