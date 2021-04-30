@@ -28,7 +28,7 @@
 
 
 - title: Blogs
-  url: "/blogs/"
+  url: "/blog/"
   side: right
   dropdown:
   - title: "Blog Archive"
