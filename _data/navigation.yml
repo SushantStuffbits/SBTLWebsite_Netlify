@@ -1,37 +1,13 @@
-- title: Start
+- title: Home
   url: "/"
-  side: left
+  side: right
 
-- title: Getting Started
+- title: About Us
   url: "/getting-started/"
-  side: left
+  side: right
 
-- title: "Templates"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Services"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,25 +26,50 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
+- title: Blogs
   url: "/blog/"
-  side: left
+  side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Blogs"
+#  url: "/design/"
+#  side: left
+# dropdown:
+#  - title: "Grid & Colors"
+#    url: "/design/grid/"
+#  - title: "Typography"
+#    url: "/design/typography/typography/"
+# - title: "Page/Post"
+#    url: "/design/page/"
+#  - title: "Post-Left-Sidebar"
+#    url: "/design/post-left-sidebar/"
+#  - title: "Post-Right-Sidebar"
+#    url: "/design/post-right-sidebar/"
+#  - title: "Page Full-Width"
+#    url: "/design/page-fullwidth/"
+#  - title: "Blog-Page"
+#    url: "/blog/"
+#  - title: "Video"
+#    url: "/design/video/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
+
+- #title: Contact
+  #url: "/documentation/"
+  #side: left
+  #dropdown:
+  #- title: "Changelog"
+  #  url: "/changelog/"
+  #- title: "Roadmap"
+  #  url: "/roadmap/"
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
 - title: "Contact"
   url: "/contact/"
