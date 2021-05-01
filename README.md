@@ -7,11 +7,11 @@ If you are a webdesigner interested in Jekyll, the static website generator, thi
 [![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+[![Start Video](https://github.com/StuffbitsTechnologies/SBTLWebsite/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://StuffbitsTechnologies.github.io/SBTLWebsite/>.
 
 To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
@@ -45,7 +45,7 @@ Feeling Responsive is heavily customizable.
 
 Click the image to [watch the YouTube-Video-Tutorial][4].
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+[![Start Video](https://github.com/StuffbitsTechnologies/SBTLWebsite/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
 
 
 
@@ -54,13 +54,13 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
 
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
+ [1]: http://StuffbitsTechnologies.github.io/SBTLWebsite/documentation/
+ [2]: https://github.com/StuffbitsTechnologies/SBTLWebsite/blob/gh-pages/LICENSE
+ [3]: http://StuffbitsTechnologies.github.io/SBTLWebsite/info/
  [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
+ [6]: https://StuffbitsTechnologies.github.io/SBTLWebsite/changelog/
+ [7]: http://StuffbitsTechnologies.github.io/SBTLWebsite/
  [8]: http://phlow.github.io/simplicity/
  [9]: #
  [10]: #
