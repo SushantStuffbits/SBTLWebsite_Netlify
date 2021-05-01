@@ -30,9 +30,9 @@
 - title: Blogs
   url: "/blog/"
   side: right
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 
 - title: "Portfolio"
