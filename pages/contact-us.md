@@ -5,7 +5,7 @@ meta_title: "Contact and use our contact form"
 subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 header:
-   image_fullwidth: "header_contact_us_small.jpg"
+   image_fullwidth: "header_contact_us_word.jpg"
 permalink: "/contact-us/"
 ---
 If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
