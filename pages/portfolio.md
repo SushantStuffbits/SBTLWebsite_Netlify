@@ -3,6 +3,8 @@ layout: page-fullwidth
 title: "Show your beautiful work!"
 subheadline: "Portfolio"
 teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
+header:
+   image_fullwidth: "header_portfolio.jpg"
 permalink: "/portfolio/"
 ---
 <!--more-->
