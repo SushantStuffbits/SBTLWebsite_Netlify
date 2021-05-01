@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
-subheadline:  "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+title:  "Basics of J1939"
+subheadline:  "J1939"
+teaser: "J1939 is based on CAN."
 categories:
-    - design
+    - Embedded Basics
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---

@@ -1,17 +1,18 @@
 ---
 layout: page
-#sidebar: left
-subheadline: Templates
-title:  "Page/Post With Left Sidebar"
-teaser: "This is a example of page/post with a sidebar on the left."
+#sidebar: right
+subheadline: Watchdogs
+title:  "Basics of Watchdog"
+teaser: "This is an example of page/post with a sidebar on the right."
 breadcrumb: true
 tags:
     - post format
 categories:
-    - design
+    - Embedded Basics
 image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
+    thumb: gallery-example-2-thumb.jpg
+    title: gallery-example-2.jpg
+    caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
 *Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
