@@ -1,6 +1,6 @@
 ---
 layout: page
-sidebar: left
+#sidebar: left
 subheadline: Templates
 title:  "Page/Post With Left Sidebar"
 teaser: "This is a example of page/post with a sidebar on the left."

@@ -1,6 +1,6 @@
 ---
 layout: page
-sidebar: right
+#sidebar: right
 subheadline: Templates
 title:  "Page/Post Right Sidebar"
 teaser: "This is an example of page/post with a sidebar on the right."

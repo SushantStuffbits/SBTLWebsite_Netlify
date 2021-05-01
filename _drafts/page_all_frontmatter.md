@@ -38,7 +38,7 @@ video:
 #
 # Metainformation & Customization
 #
-sidebar: left
+#sidebar: left
 comments: true
 breadcrumb: true
 show_meta: false
