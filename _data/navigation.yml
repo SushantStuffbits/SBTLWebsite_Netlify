@@ -35,6 +35,11 @@
     url: "/blog/archive/"
 
 
+- title: "Portfolio"
+  url: "/portfolio/"
+  side: right
+
+
 - title: "Contact Us"
   url: "/contact-us/"
   side: right
