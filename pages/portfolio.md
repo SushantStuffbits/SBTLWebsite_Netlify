@@ -11,33 +11,54 @@ permalink: "/portfolio/"
 <!--more-->
 
 <div class="row t60">
+    <div class="medium-4 columns">
+        <a href="{{ site.url }}{{ site.baseurl }}/portfolio-manometer/">
+        <img src="{{ site.urlimg }}portfolio_big_manometer.jpg" alt="">
+        </a>
+        <p>
+        <a class="radius button large" href="{{ site.url }}{{ site.baseurl }}/portfolio-manometer/">            Electronic Manometers                   
+        </a>
+        </p>
+    </div><!-- /.medium-4.columns -->
+
     <div class="medium-4 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
-        <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
+        <a href="{{ site.url }}{{ site.baseurl }}/portfolio-dpt-manometer/">
+            <img src="{{ site.urlimg }}portfolio_dpt_manometer.jpg" alt="">
+        </a>
+        <p>
+        <a class="radius button large" href="{{ site.url }}{{ site.baseurl }}/portfolio-dpt-manometer/">            Degital Pressure Transmeter                   
+        </a>
+        </p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns b30">
-        <a href="https://www.w3schools.com">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
+        <a href="{{ site.url }}{{ site.baseurl }}/portfolio-gas-analyzer/">
+            <img src="{{ site.urlimg }}portfolio_gasanalyzer.jpg" alt="">
         </a>
+        <p>
+          <a href="{{ site.url }}{{ site.baseurl }}/portfolio-gas-analyzer/">     Electronic Gas Analyzer
+          </a>
+        </p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
-        <p>Website: <a href="http://stilwandel-koeln.de">Stilwandel-Koeln.de</a></p>
+        <a href="{{ site.url }}{{ site.baseurl }}/portfolio-fuel-diespense/">
+            <img src="{{ site.urlimg }}portfolio_mpd.jpg" alt="">
+        </a>
+        <p>
+          <a href="{{ site.url }}{{ site.baseurl }}/portfolio-fuel-diespense/">     Multi-Product Fuel Dispenser
+          </a>
+        </p>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
-        <p>Website: <a href="http://tarnkarppe.info">Tarnkappe.info</a></p>
-    </div><!-- /.medium-4.columns -->
-
+<!--
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_schriefer.jpg" alt="">
         <p>Website: <a href="http://www.psychotherapie-schriefer.de/">Praxis für psychologische Psychotherapie Simone Schriefer</a></p>
-    </div><!-- /.medium-4.columns -->
+    </div><!- /.medium-4.columns ->
+-->
 </div><!-- /.row -->
 
