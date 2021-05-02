@@ -1,7 +1,7 @@
 ---
-layout: page-fullwidth
+layout: page
 title:  "Basics of J1939"
-subheadline:  "J1939"
+subheadline:  J1939
 teaser: "J1939 is based on CAN."
 categories:
     - Embedded Basics
