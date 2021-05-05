@@ -20,7 +20,7 @@ widget2:
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://StuffbitsTechnologies.github.io/SBTLWebsite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blogs"
-  url: 'https://github.com/StuffbitsTechnologies/SBTLWebsite/blog'
+  url: 'https://stuffbitstechnologies.github.io/SBTLWebsite/blog/'
   image: widget-github-303x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 #
