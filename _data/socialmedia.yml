@@ -3,6 +3,11 @@
   class: icon-linkedin
   title: Career Network...
 
+- name: Facebook
+  url: http://www.facebook.com/stuffbits
+  class: icon-facebook
+  title: "The Social Network"
+  
 - #name: YouTube
   #url: http://www.youtube.com/PhlowMedia
   #class: icon-youtube
@@ -22,11 +27,6 @@
   #url: https://plus.google.com/u/0/+Phlow
   #class: icon-googleplus
   #title: "YouTube Google+"
-
-- name: Facebook
-  url: http://www.facebook.com/stuffbits
-  class: icon-facebook
-  title: "The Social Network"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

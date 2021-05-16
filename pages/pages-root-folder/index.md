@@ -8,21 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Over Services"
-  url: 'http://StuffbitsTechnologies.github.io/SBTLWebsite/services/'
+  title: "Our Services"
+  url: 'http://127.0.0.1:4000/SBTLWebsite/services/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'At StuffBits we provide complete design solution for Embedded System projects. We have experts in different fields of Embedded System working to create quality products for our customers.'
 widget2:
   title: "Our Work"
-  url: 'http://StuffbitsTechnologies.github.io/SBTLWebsite/portfolio/'
-  image: widget-1-302x182.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  url: 'http://127.0.0.1:4000/SBTLWebsite/portfolio/'
+  image: widget_portfolio.jpg
+  text: 'Take a look at our previous work; which includes Embedded Software Developement and End-To-End Produt Development as per our clients needs. At StuffBits we strive to understand clients Wants and Needs to provide a best soultion for their requirements.'
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://StuffbitsTechnologies.github.io/SBTLWebsite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blogs"
-  url: 'https://stuffbitstechnologies.github.io/SBTLWebsite/blog/'
+  url: 'http://127.0.0.1:4000/SBTLWebsite/blog/'
   image: widget-github-303x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'StuffBits publishes various technical articles about software development, various standards and know-how whitepapers, which can be found in our open source repository, here...'
 #
 # Use the call for action to show a button on the frontpage
 #
