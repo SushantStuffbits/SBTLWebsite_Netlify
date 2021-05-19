@@ -10,17 +10,17 @@ header:
   title: What we do...
 widget1:
   title: "Product Engineering"
-  url: 'http://127.0.0.1:4000/SBTLWebsite/prod-design/'
+  url: 'https://stuffbitstechnologies.github.io/SBTLWebsite/prod-design/'
   image: widget_product_design.jpg
   text: 'We have great  experience in industry  level embedded software development. Our team is in continuous process to develop technology stacks that can be used for our own products or can be integrated into your product development solutions.'
 widget2:
   title: "Embedded Software Solution"
-  url: 'http://127.0.0.1:4000/SBTLWebsite/emb-sw/'
+  url: 'https://stuffbitstechnologies.github.io/SBTLWebsite/emb-sw/'
   image: widget_emb_sw.jpg
   text: 'We have great  experience in industry  level embedded software development. Our team is in continuous process to develop technology stacks that can be used for our own products or can be integrated into your product development solutions.'
 widget3:
   title: "Technology Stack"
-  url: 'http://127.0.0.1:4000/SBTLWebsite/tech-stack/'
+  url: 'https://stuffbitstechnologies.github.io/SBTLWebsite/tech-stack/'
   image: widget_tech_stack.jpg
   text: 'At StuffBits we provide complete design solution for Embedded System projects. We have expertise in different fields of Embedded Systems working to create quality products for our customers.'
 #
