@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Contact Us"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+#meta_title: "Contact and use our contact form"
+subheadline: "Contact form"
+title: "Get in touch with us"
+teaser: "Fill in below details and send in a query."
 header:
    image_fullwidth: "header_contact_us_word.jpg"
 permalink: "/contact-us/"
