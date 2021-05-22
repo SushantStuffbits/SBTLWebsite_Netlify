@@ -11,7 +11,7 @@
   title: "Team"
 
 - name: "Blogs"
-  url: "/blogs/"
+  url: "/blog/"
   class: "company-blogs"
   title: "Blogs"
 
