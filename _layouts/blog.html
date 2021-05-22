@@ -4,14 +4,60 @@ format: blog-index
 # Don't index these pages dear Google.
 noindex: true
 ---
-<div class="row">
-	<div class="medium-8 columns t30">
-		{% include _pagination.html %}
-	</div><!-- /.medium-7.columns -->
 
-	<!--
-	<div class="medium-4 columns t30">
-		{% include _sidebar.html %}
-	</div><!- /.medium-5.columns ->
-	-->
-</div><!-- /.row -->
+<div class="container main-content">
+<!-- Featured
+================================================== -->
+    <section class="featured-posts">
+        <div class="section-title">
+            <h2><span>Featured</span></h2>
+        </div>
+        <div class="row blog-row">
+
+        {% for post in site.posts %}
+
+            {% if post.featured == true %}
+
+                {% include _featuredbox.html %}
+
+            {% endif %}
+
+        {% endfor %}
+
+        </div>
+    </section>
+
+<!-- Posts Index
+================================================== -->
+    <section class="recent-posts">
+
+        <div class="section-title">
+
+            <h2><span>All Stories</span></h2>
+
+        </div>
+
+        <div class="row blog-row listrecent">
+
+            {% for post in paginator.posts %}
+
+                {% if post.featured == false %}
+                    {% include _postbox.html %}
+                {% endif %}
+
+            {% endfor %}
+
+        </div>
+
+    </section>
+
+<!-- Pagination
+================================================== -->
+    <div class="bottompagination">
+        <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+        <span class="navigation" role="navigation">
+            {% include _pagination.html %}
+        </span>
+    </div>
+
+</div>

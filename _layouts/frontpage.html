@@ -6,6 +6,35 @@ format: frontpage
     <div class="row">
         <div class="small-12 columns">
         </div><!-- /.medium-4.columns -->
+        <div class="container" style="display:none">
+            <p>
+                <h1>Why StuffBits?</h1>
+            </p>
+            <p>
+                <h3>Flexible solutions for your Business needs</h3>
+            </p>
+            <p>
+                <h5>We strive continuously to upgrade and better the performances of our teams, \
+                    our work-process and our skills to help serve our clients better. We combine \
+                    our expertise at catching the  latest trends in the market to innovate excellence \
+                    at all times. We surpass expectations consistently by catering to the latent need of \
+                    our clients. We are also known or high quality standards in our work-process. \
+                    Being responsible is our more value, and we believe in being ethical and putting \
+                    in our best efforts at what we do.</h5>
+            </p>
+            <p>
+                <h5>We assess current state of your product and work with you to refresh and realign your product</h5>
+            </p>
+            <p>
+                <h5>We provide initial operational assistance and also conduct ongoing performance monitoring</h5>
+            </p>
+            <p>
+                <h5>We recommend actions for continuous improvement and adaptation as you and your industry’s needs change</h5>
+            </p>
+            <p>
+                <h5>We oversee all the implementation from our side</h5>
+            </p>
+        </div>
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
@@ -44,7 +73,7 @@ format: frontpage
 {% if page.callforaction %}
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_parent" {% endif %}>{{ page.callforaction.text }}</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}

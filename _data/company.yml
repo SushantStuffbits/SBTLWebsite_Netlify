@@ -1,0 +1,26 @@
+- menu_name: "Company"
+
+- name: "About Us"
+  url: "/about-us/"
+  class: "company-aboutus"
+  title: "About Us"
+
+- name: "Team"
+  url: "/team/"
+  class: "company-team"
+  title: "Team"
+
+- name: "Blogs"
+  url: "/blog/"
+  class: "company-blogs"
+  title: "Blogs"
+
+- name: "Customers"
+  url: "/customers/"
+  class: "company-customers"
+  title: "Customers"
+
+- name: "Jobs"
+  url: "/jobs/"
+  class: "company-jobs"
+  title: "Jobs"

@@ -83,7 +83,7 @@ body.video cite { color: #fff; }
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
-    height: 175px;
+    height: 400px;
 }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
@@ -285,9 +285,11 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
         color: #fff;
-        text-transform: uppercase;
+        text-transform: none;
     }
-
+    #footer i{
+        color: $footer-link-color;
+    }
 
 
 /* Subfooter
@@ -296,20 +298,27 @@ body.video cite { color: #fff; }
 #subfooter {
     background: $subfooter-bg;
     color: $subfooter-color;
-    padding-top: 30px;
+    padding-top: 0;
+    text-align: center;
+    margin-bottom: 0;
 }
 
 #subfooter-left ul.inline-list {
     float: left;
 }
 
-.credits a {
+.credits {
+    a {    
     color: $subfooter-link-color;
     border: 0;
-    text-transform: uppercase;
+    text-transform: none;
     &:hover {
         color: #fff;
-  }
+        }
+    }
+    p {
+        margin-bottom: 0;
+    }
 }
 
 .social-icons {
@@ -325,7 +334,7 @@ body.video cite { color: #fff; }
     width: 36px;
     border-radius: 50%;
     color: $subfooter-bg;
-    background: $subfooter-color;
+    background: white; //$subfooter-color;
     text-align: center;
     &:hover {
       background: $subfooter-bg;
@@ -334,7 +343,23 @@ body.video cite { color: #fff; }
   }
 }
 
+.single-info {
+    max-width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20;
+    .info{
+        margin-left: 8px;
+    }
+}
 
+.contact-info {
+    margin-bottom: 0;
+}
+
+.footer-text{
+    color: white;
+}
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */

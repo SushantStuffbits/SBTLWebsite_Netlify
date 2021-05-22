@@ -15,14 +15,33 @@ slogan: 'Connecting your Business to Technology'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 #description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
-description: 'StuffBits Techologies [SBTL] is a design firm which helps businesses in delivering the technology solutions.'
+description: 'StuffBits Techologies is a design firm which helps businesses in delivering the technology solutions.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Copyright 2021 <a href="https://stuffbits.in/">StuffBits Technologies</a> | Based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>, a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> theme.</p>'
 
 # Main author of the website
 # See > authors.yml
 author: KumarSawant
+
+authors:
+  kusa:
+    name: Kumar
+    display_name: KuSa
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    #email:
+    #web:
+    #twitter:
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  nass:
+    name: Nas S.
+    display_name: NasS    
+    avatar: '/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    #email:
+    #web:
+    #twitter:
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 url: 'https://stuffbitstechnologies.github.io'
@@ -58,7 +77,7 @@ plugins:
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-paginate: 5                      # Paginates all X entries
+paginate: 6                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
