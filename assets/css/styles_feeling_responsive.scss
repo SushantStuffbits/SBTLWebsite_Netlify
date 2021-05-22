@@ -5,6 +5,8 @@ sitemap:
 ---
 @charset "utf-8";
 
+@import "bootstrap/bootstrap.scss";
+
 @import "functions.scss";
 @import "01_settings_colors.scss";
 @import "02_settings_typography.scss";
@@ -48,12 +50,15 @@ sitemap:
 
 @import "11_syntax-highlighting.scss";
 
+// SBTL changes
+@import "sbtl/_stars.scss";
+@import "sbtl/_starsnonscss.scss";
+@import "sbtl/_syntax.scss";
+@import "sbtl/_screen.scss";
 
-.site-logo{
-  height: 250px;
-  width: auto;
-  margin-left: 250px;
-  margin-top: 0;
-  bottom: 0;
-  right: auto;
-}
+// Font-Awesome
+$fa-font-path: "../fonts/webfonts";
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/solid";
+@import "fontawesome/brands";
+@import "fontawesome/regular";

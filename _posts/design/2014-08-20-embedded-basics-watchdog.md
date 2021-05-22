@@ -1,19 +1,27 @@
 ---
-layout: page
+layout: post
 #sidebar: right
 subheadline: Watchdogs
+breadcrumb: true
+
 title:  "Basics of Watchdog"
 teaser: "This is an example of page/post with a sidebar on the right."
-breadcrumb: true
-tags:
-    - post format
+#meta_teaser:
+
 categories:
     - Embedded Basics
+
+tags:
+    - post format
+
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    #caption: Unsplash.com
+    #caption_url: http://unsplash.com
+
+featured: false
+author: kusa
 ---
 *Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
 <!--more-->
