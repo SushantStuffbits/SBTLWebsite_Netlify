@@ -1,12 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "StuffBits Technologies"
-subheadline: "About Us"
+#title: "Testimonials"
+subheadline: "Testimonials"
 #teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   title: "Who we are..."
+   title: "What they say about us"
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/about-us/"
+permalink: "/customers/"
 ---
-We are a design firm.
+Meet our happy clients:

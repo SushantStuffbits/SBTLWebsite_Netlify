@@ -4,8 +4,8 @@ subheadline: "SERVICES"
 title: "Technology Stack"
 teaser: "At StuffBits we provide complete design solution for Embedded System projects. We have expertise in different fields of Embedded Systems working to create quality products for our customers."
 header:
-    title: 
-    image_fullwidth: "header_tech_stack.jpg"
+    title: "Our Software Solutions"
+    image_fullwidth: "header_unsplash_8.jpg"
 permalink: "/tech-stack/"
 ---
 <ul>

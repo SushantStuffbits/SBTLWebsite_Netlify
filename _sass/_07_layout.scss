@@ -346,7 +346,7 @@ body.video cite { color: #fff; }
 .single-info {
     max-width: 250px;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     margin-bottom: 20;
     .info{
         margin-left: 8px;
@@ -357,10 +357,11 @@ body.video cite { color: #fff; }
     margin-bottom: 0;
 }
 
-.footer-text{
-    color: white;
+.form_group {
+    textarea{
+        min-height: 145px;
+    }
 }
-
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */
 
