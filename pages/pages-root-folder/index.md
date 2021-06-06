@@ -15,13 +15,13 @@ widget1:
 widget2:
   title: "Our Work"
   url: '/portfolio/'
-  image: widget_portfolio.jpg
+  image: "header_portfolio.jpg"
   text: 'Take a look at our previous work; which includes Embedded Software Developement and End-To-End Produt Development as per our clients needs. At StuffBits we strive to understand clients Wants and Needs to provide a best soultion for their requirements.'
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://StuffbitsTechnologies.github.io/SBTLWebsite/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blogs"
   url: '/blog/'
-  image: widget-github-303x182.jpg
+  image: "header_blogs.jpg"
   text: 'StuffBits publishes various technical articles about software development, various standards and know-how whitepapers, which can be found in our open source repository, here...'
 #
 # Use the call for action to show a button on the frontpage
