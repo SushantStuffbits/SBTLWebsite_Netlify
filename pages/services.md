@@ -9,19 +9,19 @@ header:
   image_fullwidth: header_portfolio.jpg
   title: What we do...
 widget1:
-  title: "Product Engineering"
-  url: '/prod-design/'
-  image: widget_product_design.jpg
+  title: "Embedded Product Design"
+  url: '/emb-prod-design/'
+  image: "widget_embedded_product_design.jpg"
   text: 'We have great  experience in industry  level embedded software development. Our team is in continuous process to develop technology stacks that can be used for our own products or can be integrated into your product development solutions.'
 widget2:
-  title: "Embedded Software Solution"
-  url: '/emb-sw/'
-  image: widget_emb_sw.jpg
+  title: "Firmware Development"
+  url: '/firmware-dev/'
+  image: "header_firmware_dev.jpg"
   text: 'We have great  experience in industry  level embedded software development. Our team is in continuous process to develop technology stacks that can be used for our own products or can be integrated into your product development solutions.'
 widget3:
-  title: "Technology Stack"
-  url: '/tech-stack/'
-  image: widget_tech_stack.jpg
+  title: "Board Design"
+  url: '/board-design/'
+  image: "header_board_design.jpg"
   text: 'At StuffBits we provide complete design solution for Embedded System projects. We have expertise in different fields of Embedded Systems working to create quality products for our customers.'
 #
 # Use the call for action to show a button on the frontpage
