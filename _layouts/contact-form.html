@@ -52,11 +52,6 @@ format: contact-form
 								<div class="form_group">
 									<select name="service_name">
 										<option value="">Choose service</option>
-										<!-- 
-										<option value="Web Design">Web Design</option>
-										<option value="Web Development">Web Development</option>
-										<option value="Apps Development">Apps Development</option>
-										<option value="Graphic Design">Graphic Design</option>  -->
 										{% for service_item in site.data.services %}
 											{% if service_item.url contains 'contact-us' or forloop.first == true %}
 												{% assign option = '' %}

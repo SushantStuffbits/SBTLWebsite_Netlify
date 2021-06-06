@@ -6,6 +6,6 @@ subheadline: "Contact form"
 #teaser: "Fill in below details and send in a query."
 header:
    title: "Get in touch with us"
-   image_fullwidth: "header_contact_us_word.jpg"
+   image_fullwidth: "header_contact_us.jpg"
 permalink: "/contact-us/"
 ---

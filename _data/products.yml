@@ -1,0 +1,21 @@
+- menu_name: "Products Category"
+
+- name: "Product Design"
+  url: ""
+  filter: "product-design"
+
+- name: "Embedded Software"
+  url: ""
+  filter: "emb-software"
+
+#- name: "Firmware Development"
+#  url: ""
+#  filter: "firmware"
+
+- name: "PCB Design"
+  url: ""
+  filter: "pcb-design"
+
+#- name: "Product Development"
+#  url: ""
+#  filter: "Product Development"

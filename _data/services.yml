@@ -1,17 +1,18 @@
 - menu_name: "Services"
 
-- name: "Product Design"
-  url: "/prod-design/"
-  title: "Product Design"
+- name: "Embedded Product Design"
+  url: "/emb-prod-design/"
+  title: "Embedded Product Design"
 
-- name: "Embedded Software"
-  url: "/emb-sw/"
-  title: "Embedded Software"
+- name: "Firmware Development"
+  url: "/firmware-dev/"
+  title: "Firmware Development"
 
-- name: "Technology Stack"
-  url: "/tech-stack/"
-  title: "Technology Stack"
+- name: "Board Design"
+  url: "/board-design/"
+  title: "Board Design"
 
+# Do not delete this entry, it's used by footer!!
 - name: "Contact Us"
   url: "/contact-us/"
   title: "Contact Us"

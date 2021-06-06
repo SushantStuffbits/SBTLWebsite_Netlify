@@ -1,11 +1,13 @@
 ---
 layout: page-fullwidth
-title: "Electronic Manometeres"
 subheadline: "Product Description"
+title: "DPT Manometer"
 teaser: "Overview of Product Development sevices provided"
-permalink: "/portfolio-dpt-manometer/"
-header: none
-  # image_fullwidth: "header_roadmap_2.jpg"
+header: no
+image:
+  title: "project-dpt-manometer.jpg"
+tag: "PCB Design"
+permalink: "/project-dpt-manometer/"
 ---
 
 <div class="row">
@@ -16,7 +18,7 @@ header: none
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-<img class="t60" src="{{ site.urlimg }}portfolio_dpt_manometer.jpg" alt="">
+<img class="t60" src="{{ site.urlimg }}portfolio-dpt-manometer.jpg" alt="">
 
 ## Description
 

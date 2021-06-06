@@ -1,12 +1,13 @@
 ---
 layout: page-fullwidth
 subheadline: "Product Description"
+title: "Gas Analyzer"
 teaser: "Overview of Product Development sevices provided"
-permalink: "/portfolio-gas-analyzer/"
 header: no
 image:
-    title: portfolio_gasanalyzer.jpg
-
+    title: "project-gas-analyzer.jpg"
+tag: "Product Design"
+permalink: "/project-gas-analyzer/"
 ---
 
 <div class="row">

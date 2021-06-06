@@ -1,12 +1,13 @@
 ---
 layout: page-fullwidth
-#subheadline: "Product Description"
-#teaser: "Overview of Product Development sevices provided"
-permalink: "/portfolio-fuel-diespense/"
+subheadline: "Product Description"
+title: "Fuel Dispenser"
+teaser: "Overview of Product Development sevices provided"
 header: no
 image:
-    title: portfolio_mpd.jpg
-
+    title: "project-fuel-dispenser.jpg"
+tag: "Embedded Software"
+permalink: "/project-fuel-dispenser/"
 ---
 
 <div class="row">

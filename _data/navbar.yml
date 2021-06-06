@@ -1,0 +1,31 @@
+- title: Home
+  url: "/"
+  side: right
+
+- title: About Us
+  url: "/about-us/"
+  side: right
+
+- title: "Services"
+  url: "/services/"
+  side: right
+  dropdown:
+  - title: "Product Design"
+    url: "/emb-prod-design/"
+  - title: "Firmware Design"
+    url: "/firmware-dev/"
+  - title: "Board Design"
+    url: "/board-design/"
+
+- title: Blogs
+  url: "/blog/"
+  side: right
+
+- title: "Portfolio"
+  url: "/portfolio/"
+  side: right
+
+
+- title: "Contact Us"
+  url: "/contact-us/"
+  side: right

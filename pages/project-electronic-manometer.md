@@ -1,11 +1,13 @@
 ---
 layout: page-fullwidth
-title: "Electronic Manometeres"
 subheadline: "Product Description"
+title: "Electronic Manometer"
 teaser: "Overview of Product Development sevices provided"
-permalink: "/portfolio-manometer/"
 header: no
-   #image_fullwidth: "header_roadmap_2.jpg"
+image:
+   title: "project-electronic-manometer.jpg"
+tag: "Product Design"
+permalink: "/project-electronic-manometer/"
 ---
 
 <div class="row">
